@@ -1,0 +1,10 @@
+{
+  "name": "koala",
+  "version": "1.0.0",
+  "description": "A TS library for Bolt (RS3)",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OhKannaDuh/koala.git"
+  },
+  "author": "OhKannaDuh"
+}
